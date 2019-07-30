@@ -7,7 +7,7 @@ The easist way to look at this repo is to view the [notebook](https://nbviewer.j
 To run the code in this repo you'll need to install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Then run the following:
 
 ```bash
-conda -n automl python=3 jupyter sklearn tpot pandas seaborn 
+conda -n automl python=3 jupyter scikit-learn pandas seaborn
 pip install tpot
 ```
 
