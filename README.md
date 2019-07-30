@@ -8,6 +8,7 @@ To run the code in this repo you'll need to install [miniconda](https://docs.con
 
 ```bash
 conda -n automl python=3 jupyter scikit-learn pandas seaborn
+source activate automl
 pip install tpot
 ```
 
